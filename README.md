@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # In-House Goal Setting & Tracking Portal
 
 Quick project guide, run commands, seed instructions, and demo credentials.
@@ -56,3 +57,7 @@ Files added/changed as part of finalization:
 - `frontend/.env.example` (API URL template)
 
 See `ARCHITECTURE.md` and `DEPLOYMENT.md` for architecture and deployment steps.
+=======
+# goal-tracking-portal
+goal-tracking-portal
+>>>>>>> c04373581972e7140976dff7f540a9c79b754518
